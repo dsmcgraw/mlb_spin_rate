@@ -1,1 +1,1 @@
-"# mlb spin rate" 
+# mlb spin rate
